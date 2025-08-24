@@ -68,7 +68,7 @@ curl -X POST "https://us-south.ml.cloud.ibm.com/ml/v4/deployments/0ce777e8-6933-
 ---
 
 ## 🖼 Deployment Screenshot
-![Deployment Screenshot](deployment.png)
+![Deployment Screenshot](Deployment.png)
 
 ---
 
